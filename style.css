@@ -1,78 +1,98 @@
-/* Style Settings */
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 :root {
-    --bgColor: #eeeeee;
-    --accentColor: #204051;
-    --font: 'Roboto', sans-serif;
+    --font: 'Roboto Mono', monospace;
+    --background: #f7f7f7;
+    --color: #232333;
 }
 
 body{
-    background-color: var(--bgColor);
+    background-color: var(--background);
+    color: var(--color);
+    font-family: var(--font);
+    margin: 0;
+    padding: 0;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    min-height: 100vh;
+    min-width: 100vw;
+    flex-direction: column;
+
 }
 
-div.top{
-    background-color: #204051;
+.container {
+    flex: 1 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    flex: 1 auto;
+    align-items: center;
+    justify-content: center;
     margin: 0;
+}
+
+footer{
+    text-align: center;
+    font-size: 0.75rem;
+    font-weight: 400;
+    padding-bottom: 20px;
 }
 
 #userPhoto{
     width: 96px;
     height: 96px;
     display: block;
-    margin: 35px auto;
-    border-radius: 25%;
-    border-style: solid;
+    margin: 35px auto 20px;
+    border-radius: 50%;
+    border: solid var(--color) 2px;
 }
 
 #userName{
-    color: #bbb;
-    font-size: 1rem;
-    font-weight: 600;
-    line-height: 1.25;
-    display: block;
-    font-family: var(--font);
     width: 100%;
+    font-size: 1.5rem;
+    font-weight: 400;
     text-align: center;
     text-decoration: none;
+    line-height: 1.25;
+    display: block;
+    color: var(--color);
 }
 
 #links{
-    max-width: 675px;
-    width: 100%;
+    width: 90%;
+    max-width:650px;
     display: block;
     margin: 27px auto;
 }
 
-h1{
-    text-align: center;
-    font-family: var(--font);
-    color: var(--accentColor);
-}
-
-#description{
-    text-align: center;
-    font-family: var(--font)
-}
-
-#social-media{
-    margin: auto;
-}
-
 .link{
     display: block;
-    background-color: var(--accentColor);
-    color: var(--bgColor);
-    font-family: var(--font);
-    text-align: center;
     margin-bottom: 20px;
     padding: 17px;
-    text-decoration: none;
     font-size: 1rem;
-    transition: all .25s cubic-bezier(.08,.59,.29,.99);
-    border-radius: 25px;
+    font-weight: 500;
+    border-radius: 5px;
+    border: dashed var(--color) 2px;
+    text-align: center;
+    text-decoration: none;
+    color: var(--color);
+    word-wrap: break-word;
+
 }
 
-.link:hover{
-    background-color: #3b6978;
-    color: #ffffff;
-}
+
+
+@media (prefers-color-scheme: dark) {
+
+    :root {
+        --background: #202124;
+        --color: #f7f7f7;
+    }
+  }
