@@ -1,0 +1,19 @@
+/* CSS styles */
+h1 {
+font-family: "Open Sans", sans-serif;
+color: #BDFFF6;
+}
+body{
+  background-color:#2D3142
+}
+#main{
+  padding-top:10vh;
+  margin:auto;
+  width:50%;
+  min-width:250px;
+  max-width:750px;
+}
+p{
+  color:#fafafa;
+  font-family: "Open Sans"
+}  
