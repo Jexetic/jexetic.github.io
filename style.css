@@ -87,6 +87,10 @@ footer{
 
 }
 
+.bio{
+    max-width: 650px;
+}
+
 
 
 @media (prefers-color-scheme: dark) {
