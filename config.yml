@@ -1,8 +1,0 @@
-baseURL: https://www.jexetic.com
-languageCode: en-us
-title: Jexetic's Blog
-theme: "PaperMod"
-params:
-    homeInfoParams:
-        Title: Hi, I'm Jexetic 👋🏻
-        Content: Thanks for visiting my blog, a place for my to post all my random thoughts.
