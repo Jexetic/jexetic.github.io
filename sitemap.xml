@@ -11,8 +11,12 @@
     <loc>https://www.jexetic.com/posts/</loc>
     <lastmod>2022-09-26T13:27:19-06:00</lastmod>
   </url><url>
-    <loc>https://www.jexetic.com/categories/</loc>
-  </url><url>
     <loc>https://www.jexetic.com/tags/</loc>
+    <lastmod>2022-09-26T13:27:19-06:00</lastmod>
+  </url><url>
+    <loc>https://www.jexetic.com/tags/tech/</loc>
+    <lastmod>2022-09-26T13:27:19-06:00</lastmod>
+  </url><url>
+    <loc>https://www.jexetic.com/categories/</loc>
   </url>
 </urlset>
