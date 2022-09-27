@@ -5,15 +5,14 @@
     <link>https://www.jexetic.com/</link>
     <description>Recent content on Jexetic&#39;s Notepad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 26 Sep 2022 13:27:19 -0600</lastBuildDate><atom:link href="https://www.jexetic.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.jexetic.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
-      <link>https://www.jexetic.com/posts/first-post/</link>
-      <pubDate>Mon, 26 Sep 2022 13:27:19 -0600</pubDate>
+      <title>Link Not Found</title>
+      <link>https://www.jexetic.com/badlink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.jexetic.com/posts/first-post/</guid>
-      <description>This is my very first post on my new blog, created with Hugo and published with Github Pages. I sure hope it works.</description>
+      <guid>https://www.jexetic.com/badlink/</guid>
+      <description>Unfortunately, the link you were looking for could not be found. Make sure there are no typos in the link. Sorry about that.</description>
     </item>
     
   </channel>
