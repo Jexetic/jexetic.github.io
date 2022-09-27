@@ -6,14 +6,5 @@
     <description>Recent content on Jexetic&#39;s Notepad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://www.jexetic.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Link Not Found</title>
-      <link>https://www.jexetic.com/badlink/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.jexetic.com/badlink/</guid>
-      <description>Unfortunately, the link you were looking for could not be found. Make sure there are no typos in the link. Sorry about that.</description>
-    </item>
-    
   </channel>
 </rss>
