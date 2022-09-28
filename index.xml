@@ -16,5 +16,15 @@
 Note: Jexetic.com and Jexetic.me are not interchangeable. Jexetic.me/discord leads to Jexetic&amp;rsquo;s Discord server, while Jexetic.com/discord leads nowhere.</description>
     </item>
     
+    <item>
+      <title>Shortlink Not Found</title>
+      <link>https://www.jexetic.com/badlink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jexetic.com/badlink/</guid>
+      <description>The Jexetic.me link you clicked or typed was not found. Check to make sure there isn&amp;rsquo;t a typo in the link. If not, it may have been deleted or expired.
+About Jexetic.me Jexetic&amp;rsquo;s Blog </description>
+    </item>
+    
   </channel>
 </rss>
