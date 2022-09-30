@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Jexetic&#39;s Notepad</title>
+    <link>https://www.jexetic.com/posts/</link>
+    <description>Recent content in Posts on Jexetic&#39;s Notepad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Sep 2022 19:40:12 -0600</lastBuildDate><atom:link href="https://www.jexetic.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anticipation</title>
+      <link>https://www.jexetic.com/posts/anticipation/</link>
+      <pubDate>Thu, 29 Sep 2022 19:40:12 -0600</pubDate>
+      
+      <guid>https://www.jexetic.com/posts/anticipation/</guid>
+      <description>It’s become super clear to me that the biggest trigger for my anxiety is anticipation. When it comes to work, I’m most anxious in the hour leading up to the start of my shift, and then once I clock in and start working the anxiety level plummets. If I have an appointment, I can’t relax until after the appointment is over. All I can focus on until then is making sure I make it to the appointment on time and with everything I need.</description>
+    </item>
+    
+  </channel>
+</rss>
