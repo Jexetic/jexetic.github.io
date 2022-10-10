@@ -1,0 +1,10 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css);
+
+body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; 
+}
+
+.chat_line{
+ animation: fadeInRight .3s ease forwards, fadeOut 0.5s ease 30s forwards;
+  line-height:1.15em !important;
+  padding-top:12px !important;
+}
