@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Nov 2022 17:11:30 -0700</lastBuildDate><atom:link href="https://www.jexetic.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Minecraft Server Help</title>
+      <link>https://www.jexetic.com/mchelp/</link>
+      <pubDate>Mon, 28 Nov 2022 18:52:16 -0700</pubDate>
+      
+      <guid>https://www.jexetic.com/mchelp/</guid>
+      <description>This note contains some useful information and commands for Jexetic’s Minecraft server. Most of this functionality comes from VanillaTweaks datapacks. Teleport to Spawn To teleport to spawn/our main area, type /trigger spawn Homes Each player can set up to 3 homes.
+To set a home, type /trigger sethome set 1 or replace 1 with 2 or 3.
+To teleport to a home, type /trigger home set 1 or replace 1 with 2 or 3.</description>
+    </item>
+    
+    <item>
       <title>My Tech Ecosystem (November 2022)</title>
       <link>https://www.jexetic.com/posts/my-tech-ecosystem-november-2022/</link>
       <pubDate>Mon, 28 Nov 2022 17:11:30 -0700</pubDate>
