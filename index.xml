@@ -13,10 +13,9 @@
       <pubDate>Mon, 28 Nov 2022 18:52:16 -0700</pubDate>
       
       <guid>https://www.jexetic.com/mchelp/</guid>
-      <description>This note contains some useful information and commands for Jexetic’s Minecraft server. Most of this functionality comes from Vanilla Tweaks datapacks.
-Teleport to Spawn To teleport to spawn/our main area, type /trigger spawn Homes Each player can set up to 3 homes.
-To set a home, type /trigger sethome set 1 (or use a different number to set a different home).
-To teleport to a home, type /trigger home set 1 (or the number for whatever home you want to go to).</description>
+      <description>This page contains information about the different datapacks on the Minecraft server. They are not in any particular order. If you need help with something specific, use Ctrl+F (or Cmd+F) to search the page. This is a work-in-progress, not all datapacks are listed here.
+Spawn To teleport to spawn/our main area, type /trigger spawn Homes Each player can set up to 3 homes.
+To set a home, type /trigger sethome set 1 (or use a different number to set a different home).</description>
     </item>
     
     <item>
