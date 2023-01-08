@@ -13,9 +13,8 @@
       <pubDate>Mon, 28 Nov 2022 18:52:16 -0700</pubDate>
       
       <guid>https://www.jexetic.com/mcserver/</guid>
-      <description>This page contains information about the different datapacks on the Minecraft server. They are not in any particular order. If you need help with something specific, use Ctrl+F (or Cmd+F) to search the page. This is a work-in-progress, not all datapacks are listed here.
-Spawn To teleport to spawn/our main area, type /trigger spawn Homes Each player can set up to 5 homes.
-To set a home, type /trigger sethome set x (where x is a number 1-5).</description>
+      <description>This page contains information and help for all the non-vanilla features on Jexetic’s Minecraft server. They are not in any particular order. If you need help with something specific, use Ctrl+F (or Cmd+F) to search the page. You do not need to download anything extra to connect to the server and use these features, just connect as normal.
+Spawn To teleport to spawn/our main area, type /trigger spawn Homes Each player can set up to 5 homes.</description>
     </item>
     
     <item>
