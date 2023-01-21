@@ -14,6 +14,7 @@ PC Specs Motherboard: ASRock B450M/ac CPU: AMD Ryzen 7 2700X Processor 3.7GHz GP
 
 <script>
 window.addEventListener("DOMContentLoaded", function externalLinks() {
+  var anchors = document.getElementsByTagName("a");
   for (var i = 0; i < anchors.length; i++) {
     if (anchors[i].hostname !== window.location.hostname) {
       anchors[i].setAttribute("target", "_blank");
