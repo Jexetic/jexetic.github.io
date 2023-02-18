@@ -6,7 +6,17 @@
     <description>Recent content on Jexetic.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Nov 2022 17:11:30 -0700</lastBuildDate><atom:link href="https://www.jexetic.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2023 15:08:32 -0700</lastBuildDate><atom:link href="https://www.jexetic.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts on HomeKit vs Alexa</title>
+      <link>https://www.jexetic.com/posts/homekit/</link>
+      <pubDate>Sat, 18 Feb 2023 15:08:32 -0700</pubDate>
+      
+      <guid>https://www.jexetic.com/posts/homekit/</guid>
+      <description>A while ago, I decided I wanted my lights to be smart. I wanted to be able to setup scenes and automations and control them through my phone or other devices. I bought an Echo Dot and some Govee lights. The Govee lights were great, the Echo and Alexa and that whole system&amp;hellip; not so much.
+Even though I liked the Govee lights, my goal was to be able to use multiple brands and have them all under one sort of centralized hub.</description>
+    </item>
+    
     <item>
       <title>Jexetic&#39;s Minecraft Server (The Basin)</title>
       <link>https://www.jexetic.com/mcserver/</link>
