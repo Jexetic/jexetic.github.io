@@ -6,7 +6,18 @@
     <description>Recent content in tech on Jexetic.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 12:27:05 -0700</lastBuildDate><atom:link href="https://www.jexetic.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 May 2023 23:18:39 -0600</lastBuildDate><atom:link href="https://www.jexetic.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tumblr is stupid</title>
+      <link>https://www.jexetic.com/posts/tumblr-wtf/</link>
+      <pubDate>Sat, 06 May 2023 23:18:39 -0600</pubDate>
+      
+      <guid>https://www.jexetic.com/posts/tumblr-wtf/</guid>
+      <description>I was going to move my blog to Tumblr. I barely post anyway and it seemed like a decent idea. I customized a theme. Things were going alright. The theme looked good. It kinda worked.
+Then I linked to my blog from the homepage. Then I realized when you click that link, Tumblr breaks the back button in your browser.
+WHAT FUCKING YEAR IS THIS?? Seriously!? What website is still breaking the back button in 2023?</description>
+    </item>
+    
     <item>
       <title>Hey Google, Stop Screwing With My Metadata!</title>
       <link>https://www.jexetic.com/posts/google-photos-metadata/</link>
