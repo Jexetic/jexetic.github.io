@@ -197,9 +197,9 @@ Email, Contacts, and Calendar I switched from Gmail to Fastmail for all of my em
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.jexetic.com/shortlinks/</guid>
-      <description>Jexetic.me is a link shortener used by Jexetic. A link beginning with Jexetic.me will never lead to a phishing, malware, or scam website.
+      <description>Jexetic.me is a redirect domain used by Jexetic. A link beginning with Jexetic.me will always forward you to somewhere safe and will never lead to a phishing, malware, or scam website.
 Note: Jexetic.com and Jexetic.me are not interchangeable. Jexetic.me/discord leads to Jexetic&amp;rsquo;s Discord server, while Jexetic.com/discord leads nowhere.</description>
-      <content:encoded><![CDATA[<p>Jexetic.me is a link shortener used by Jexetic. A link beginning with Jexetic.me will never lead to a phishing, malware, or scam website.</p>
+      <content:encoded><![CDATA[<p>Jexetic.me is a redirect domain used by Jexetic. A link beginning with Jexetic.me will always forward you to somewhere safe and will never lead to a phishing, malware, or scam website.</p>
 <p>Note: Jexetic.com and Jexetic.me are <strong>not</strong> interchangeable. <code>Jexetic.me/discord</code> leads to Jexetic&rsquo;s Discord server, while <code>Jexetic.com/discord</code> leads nowhere.</p>
 ]]></content:encoded>
     </item>
