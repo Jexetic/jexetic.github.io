@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>typing on Jexetic.com</title>
+    <link>https://www.jexetic.com/tags/typing/</link>
+    <description>Recent content in typing on Jexetic.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 May 2023 02:48:10 -0600</lastBuildDate><atom:link href="https://www.jexetic.com/tags/typing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speed Typing</title>
+      <link>https://www.jexetic.com/posts/speed-typing/</link>
+      <pubDate>Fri, 19 May 2023 02:48:10 -0600</pubDate>
+      
+      <guid>https://www.jexetic.com/posts/speed-typing/</guid>
+      <description>I logged back into my TypeRacer account. So here are my typing speed stats as of today. Hopefully they&amp;rsquo;ll go up, top 1% or better here I come?</description>
+      <content:encoded><![CDATA[<p>I logged back into <a href="https://jexetic.me/typeracer">my TypeRacer account</a>. So here are my typing speed stats as of today. Hopefully they&rsquo;ll go up, top 1% or better here I come?</p>
+<p><img loading="lazy" src="image.png" alt="Pic of profile showing 92 WPM speed"  />
+</p>
+<p><img loading="lazy" src="image2.png" alt="Pic showing last 10 race results"  />
+</p>
+<p><img loading="lazy" src="image3.png" alt="Pic showing speed and percentile"  />
+</p>
+<style>
+.post-content img{
+  margin-left:auto;
+  margin-right:auto;
+}
+</style><blockquote>
+</blockquote>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
