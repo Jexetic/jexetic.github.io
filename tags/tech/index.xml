@@ -87,26 +87,12 @@
       <guid>https://www.jexetic.com/posts/tumblr-wtf/</guid>
       <description>I was going to move my blog to Tumblr. I barely post anyway and it seemed like a decent idea. I customized a theme. Things were going alright. The theme looked good. It kinda worked.
 Then I linked to my blog from the homepage. Then I realized when you click that link, Tumblr breaks the back button in your browser.
-WHAT FUCKING YEAR IS THIS?? Seriously!? What website is still breaking the back button in 2023?</description>
+What year is this? Seriously!? What website is still breaking the back button in 2023?</description>
       <content:encoded><![CDATA[<p>I was going to move my blog to Tumblr. I barely post anyway and it seemed like a decent idea. I customized a theme. Things were going alright. The theme looked good. It kinda worked.</p>
 <p>Then I linked to my blog from the homepage. Then I realized when you click that link, Tumblr breaks the back button in your browser.</p>
-<p><em><strong>WHAT FUCKING YEAR IS THIS??</strong></em> Seriously!? What website is still breaking the back button in 2023? One thing is for certain, it won’t be my blog!</p>
+<p><em><strong>What year is this?</strong></em> Seriously!? What website is still breaking the back button in 2023? One thing is for certain, it won’t be my blog!</p>
 <p>I assume it has something to do with them injecting advertising into the theme or in some other way caused by them trying to make money. All I know is, if you click the blog link on my website, and then click the back button, it should bring you back to my website, not trap you in a loop.</p>
 <p>So yeah my blog lives here still because Tumblr is broken. Maybe I&rsquo;ll post something here more often. Unlikely though.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Hey Google, Stop Screwing With My Metadata!</title>
-      <link>https://www.jexetic.com/posts/google-photos-metadata/</link>
-      <pubDate>Mon, 06 Mar 2023 12:27:05 -0700</pubDate>
-      
-      <guid>https://www.jexetic.com/posts/google-photos-metadata/</guid>
-      <description>I like Google Photos. I’ve considered other options, like Dropbox, but the thing that keeps me paying for Google One storage is how nicely Google Photos take all the photos I throw at it and organizes them for me. I don’t have to worry about manually tagging photos or making albums. If I wanna go back and look my photos later, they’re already neatly arranged for me. I choose to backup everything in original quality, because of course I want to be able to go back later and get that photo or video in original resolution if I need or want it.</description>
-      <content:encoded><![CDATA[<p>I like Google Photos. I’ve considered other options, like Dropbox, but the thing that keeps me paying for Google One storage is how nicely Google Photos take all the photos I throw at it and organizes them for me. I don’t have to worry about manually tagging photos or making albums. If I wanna go back and look my photos later, they’re already neatly arranged for me. </p>
-<p>I choose to backup everything in original quality, because of course I want to be able to go back later and get that photo or video in original resolution if I need or want it. As a side-note, this is why I wasn’t really bothered when they discontinued free unlimited uploads; I want my backup in full quality anyway. I also very much like to be able to grab <em>all</em> of my photos &amp; videos at once, in full quality, so I can keep them backed up and not rely solely on Google. Luckily, Google Takeout makes this really easy. Well, almost&hellip;</p>
-<p>You see, Google Takeout <em>does</em> export all your photos and videos in full quality for you. It even exports the metadata for you, like the creation date and location. The problem is, is exports that data <em>separately!</em> What?! Why is the date my photo was taken stored in some random JSON file instead of, you know, in file itself like it should be? The only obvious reason I can guess is to keep you from easily moving your entire library to another competing service. But they’re my photos. If I want to move them, I will. What the hell, Google? Why are you stripping my photos of their metadata and then giving it back to me in a different file? Why??</p>
-<p>Luckily, there is a program that exists to fix this issue. Aptly named “Google Photos Metadata Fixer,” it does just that. You upload your Google Photos Takeout zip, and it combines the metadata back into the photos themselves. You know, the way Google should give it to you in the first place. I didn’t really mind paying for the program. It works great. My only worry is that eventually, Google will decide to stop giving me the metadata altogether, or make it harder to export my library in a new way. I take regular Takeout backups rather than relying solely on Google to store anything, and it’s because they do things like this that make me question whether my data is truly safe with them. It’s a shame, because I truly can’t bring myself to switch to any competitor because of how good Google Photos is otherwise.</p>
 ]]></content:encoded>
     </item>
     
@@ -147,18 +133,6 @@ Email, Contacts, and Calendar I switched from Gmail to Fastmail for all of my em
 <p>I settled on Porkbun for my domains. I’m using Github Pages to host this blog and I have a YOURLS instance running on Hostinger for Jexetic.me. Hostinger seems fine, I don’t have much to say about it other than it hasn’t given me any problems for what limited use I have for it.</p>
 <h2 id="security">Security</h2>
 <p>For my password manager I am using Bitwarden. Currently I use the free plan but I’ve considered using the paid plan since it’s so cheap. I’m not sure that it’s necessary to upgrade yet, though. For 2FA I am using Authy. I personally don’t think it is a great idea to use Bitwarden for my 2FA, because it seems like that kind of defeats the whole purpose. The Authy Mac app was getting on my nerves, but I downloaded the App Store version and it seems pretty good.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Medal is Ruined</title>
-      <link>https://www.jexetic.com/posts/medal-is-ruined/</link>
-      <pubDate>Tue, 01 Nov 2022 17:51:24 -0600</pubDate>
-      
-      <guid>https://www.jexetic.com/posts/medal-is-ruined/</guid>
-      <description>There’s this app called Medal that I have somewhat liked for a while. Basically, it’s an app to capture and trim gaming moments with a hotkey so you can share them in Discord or whatever. I actually generally just used OBS to do the actual recording, so what Medal was good for in my scenario was trimming down those replay clips and providing an easy place to host them so I could share them into a Discord server.</description>
-      <content:encoded><![CDATA[<p>There’s this app called Medal that I have somewhat liked for a while. Basically, it’s an app to capture and trim gaming moments with a hotkey so you can share them in Discord or whatever. I actually generally just used OBS to do the actual recording, so what Medal was good for in my scenario was trimming down those replay clips and providing an easy place to host them so I could share them into a Discord server. Unfortunately, that functionality is essentially gone. Yes, you can still use Medal to share clips to Discord. But they’ve completely disabled embeds. Let’s be real: nobody wants to open their web browser just to watch a 15-30 second gaming clip. Removing Discord embeds immediately makes the app less useful. Unfortunately, it doesn’t even end there. Medal now also wants to charge you to download the clips you’re hosting there if you don’t want them to add a watermark. This just plain sucks, to be honest. This means it’s hardly useful as a place to actually store/host clips anymore. If I’m gonna pay for somewhere to host the clips I may as well just pay for something like Streamable and get 2TB for whatever video uploads I want, and they’ll actually embed to Discord. Or, you know, just throw them on YouTube for free. Which also embeds to Discord. C’mon Medal, you know what we’re using your app for. You ruined it. RIP.</p>
-<p>Update: They have added back the ability to embed to Discord, although it&rsquo;s now controlled by a setting which seems to be disabled by default which is just odd. You do still need to pay if you&rsquo;d like to be able to download your clips without a Medal watermark.</p>
 ]]></content:encoded>
     </item>
     
