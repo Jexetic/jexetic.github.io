@@ -2,11 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.jexetic.com/posts/caring-less/</loc>
+    <lastmod>2023-07-05T11:02:46-06:00</lastmod>
+  </url><url>
     <loc>https://www.jexetic.com/</loc>
-    <lastmod>2023-06-17T19:18:40-06:00</lastmod>
+    <lastmod>2023-07-05T11:02:46-06:00</lastmod>
   </url><url>
     <loc>https://www.jexetic.com/tags/life/</loc>
-    <lastmod>2023-06-17T19:18:40-06:00</lastmod>
+    <lastmod>2023-07-05T11:02:46-06:00</lastmod>
+  </url><url>
+    <loc>https://www.jexetic.com/tags/</loc>
+    <lastmod>2023-07-05T11:02:46-06:00</lastmod>
+  </url><url>
+    <loc>https://www.jexetic.com/posts/</loc>
+    <lastmod>2023-07-05T11:02:46-06:00</lastmod>
   </url><url>
     <loc>https://www.jexetic.com/tags/politics/</loc>
     <lastmod>2023-06-17T19:18:40-06:00</lastmod>
@@ -14,13 +23,7 @@
     <loc>https://www.jexetic.com/posts/religion-vs-english/</loc>
     <lastmod>2023-06-17T19:18:40-06:00</lastmod>
   </url><url>
-    <loc>https://www.jexetic.com/tags/</loc>
-    <lastmod>2023-06-17T19:18:40-06:00</lastmod>
-  </url><url>
     <loc>https://www.jexetic.com/tags/tech/</loc>
-    <lastmod>2023-06-17T19:18:40-06:00</lastmod>
-  </url><url>
-    <loc>https://www.jexetic.com/posts/</loc>
     <lastmod>2023-06-17T19:18:40-06:00</lastmod>
   </url><url>
     <loc>https://www.jexetic.com/posts/dumb-home/</loc>
