@@ -316,10 +316,11 @@ Note: Jexetic.com and Jexetic.me are not interchangeable. Jexetic.me/discord lea
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.jexetic.com/discordlogs/</guid>
-      <description> #general #vipchat </description>
+      <description> #general #vipchat #minecraft </description>
       <content:encoded><![CDATA[<ul>
 <li><a href="/discordlogs/general">#general</a></li>
 <li><a href="/discordlogs/vipchat">#vipchat</a></li>
+<li><a href="/discordlogs/minecraft">#minecraft</a></li>
 </ul>
 ]]></content:encoded>
     </item>
