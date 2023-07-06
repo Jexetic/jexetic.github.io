@@ -311,21 +311,6 @@ Note: Jexetic.com and Jexetic.me are not interchangeable. Jexetic.me/discord lea
     </item>
     
     <item>
-      <title>Discord Logs</title>
-      <link>https://www.jexetic.com/discordlogs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.jexetic.com/discordlogs/</guid>
-      <description> #general #vipchat #minecraft </description>
-      <content:encoded><![CDATA[<ul>
-<li><a href="/discordlogs/general">#general</a></li>
-<li><a href="/discordlogs/vipchat">#vipchat</a></li>
-<li><a href="/discordlogs/minecraft">#minecraft</a></li>
-</ul>
-]]></content:encoded>
-    </item>
-    
-    <item>
       <title>Gear</title>
       <link>https://www.jexetic.com/gear/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -356,6 +341,28 @@ Gaming PC Specs Motherboard: ASRock B450M/ac CPU: AMD Ryzen 7 2700X Processor 3.
 <li><strong>Microphone:</strong> Shure MV7</li>
 <li><strong>Webcam:</strong> Logitech C270</li>
 <li><strong>Camera:</strong> GoPro Hero 11</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Jexetic&#39;s Discord Archives</title>
+      <link>https://www.jexetic.com/discordlogs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jexetic.com/discordlogs/</guid>
+      <description>About The logs are not updated on a schedule, just whenever I have the time and feel like it. Deleted messages are not intentionally preserved, but if a message is deleted after a channel is archived it will show here until the next time the channel is archived. Private channels require an encryption key, contact me to recieve the key for a specific channel. Weenie Hut Jr&amp;rsquo;s #general #vipchat #minecraft </description>
+      <content:encoded><![CDATA[<h2 id="about">About</h2>
+<ul>
+<li>The logs are not updated on a schedule, just whenever I have the time and feel like it.</li>
+<li>Deleted messages are not intentionally preserved, but if a message is deleted after a channel is archived it will show here until the next time the channel is archived.</li>
+<li>Private channels require an encryption key, contact me to recieve the key for a specific channel.</li>
+</ul>
+<h2 id="weenie-hut-jrs">Weenie Hut Jr&rsquo;s</h2>
+<ul>
+<li><a href="/discordlogs/general">#general</a></li>
+<li><a href="/discordlogs/vipchat">#vipchat</a></li>
+<li><a href="/discordlogs/minecraft">#minecraft</a></li>
 </ul>
 ]]></content:encoded>
     </item>
