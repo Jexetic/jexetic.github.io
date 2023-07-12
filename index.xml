@@ -398,22 +398,33 @@ You&rsquo;ll need to use the FTB One modpack for this one (duh)</p>
       <guid>https://www.jexetic.com/nav/</guid>
       <description>Blog
 Tags
-About Jexetic.me
+Jexetic.me
 Discord Logs
 Video Editing
 Gear
 Minecraft World Downloads
 Minecraft Server Info
-PGP</description>
+Archived
+PGP
+Threads
+YouTube
+Discord
+Spotify</description>
       <content:encoded><![CDATA[<p><a href="/blog/">Blog</a></p>
 <p><a href="/tags/">Tags</a></p>
-<p><a href="/shortlinks/">About Jexetic.me</a></p>
-<p><a href="/logs/">Discord Logs</a></p>
+<p><a href="/shortlinks/">Jexetic.me</a></p>
+<p><a href="/discordlogs/">Discord Logs</a></p>
 <p><a href="/editing/">Video Editing</a></p>
 <p><a href="/gear">Gear</a></p>
 <p><a href="/mcdownloads/">Minecraft World Downloads</a></p>
 <p><a href="/mcserver/">Minecraft Server Info</a></p>
+<p><a href="/archived/">Archived</a></p>
 <p><a href="/pgp/">PGP</a></p>
+<hr>
+<p><a href="https://www.threads.net/@Jexetic">Threads</a></p>
+<p><a href="https://www.YouTube.com/@Jexetic">YouTube</a></p>
+<p><a href="https://jexetic.me/Discord">Discord</a></p>
+<p><a href="https://jexetic.me/Spotify">Spotify</a></p>
 ]]></content:encoded>
     </item>
     
