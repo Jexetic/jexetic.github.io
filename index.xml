@@ -6,7 +6,19 @@
     <description>Recent content on Jexetic.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2023 11:02:46 -0600</lastBuildDate><atom:link href="https://www.jexetic.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jul 2023 17:58:28 -0600</lastBuildDate><atom:link href="https://www.jexetic.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My current podcast addiction...</title>
+      <link>https://www.jexetic.com/posts/psychobabble/</link>
+      <pubDate>Fri, 14 Jul 2023 17:58:28 -0600</pubDate>
+      
+      <guid>https://www.jexetic.com/posts/psychobabble/</guid>
+      <description>I can&amp;rsquo;t explain why, but I am currently hopelessly addicted to Tyler Oakley and Korey Kuhl&amp;rsquo;s podcast Psychobabble. I&amp;rsquo;m not going to pretend I know who Korey Kuhl is outside of this podcast, and I watched some of Tyler Oakley&amp;rsquo;s YouTube videos but wasn&amp;rsquo;t a superfan or anything. But I&amp;rsquo;ve been binging episodes of this podcast basically every day. I listen while I walk to work and it&amp;rsquo;s been the only show I&amp;rsquo;ve been listening to.</description>
+      <content:encoded><![CDATA[<p>I can&rsquo;t explain why, but I am currently hopelessly addicted to Tyler Oakley and Korey Kuhl&rsquo;s podcast <a href="https://pod.link/914634944">Psychobabble</a>. I&rsquo;m not going to pretend I know who Korey Kuhl is outside of this podcast, and I watched some of Tyler Oakley&rsquo;s YouTube videos but wasn&rsquo;t a superfan or anything. But I&rsquo;ve been binging episodes of this podcast basically every day. I listen while I walk to work and it&rsquo;s been the only show I&rsquo;ve been listening to.</p>
+<p>So yeah. Check it out. Or don&rsquo;t.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Caring Less</title>
       <link>https://www.jexetic.com/posts/caring-less/</link>
@@ -68,7 +80,9 @@ First of all, let&amp;rsquo;s start with why I preferred HomeKit in the first pl
     margin-left:auto;
     margin-right:auto;
   }
-</style>]]></content:encoded>
+</style><blockquote>
+</blockquote>
+]]></content:encoded>
     </item>
     
     <item>
@@ -90,7 +104,9 @@ First of all, let&amp;rsquo;s start with why I preferred HomeKit in the first pl
     margin-left:auto;
     margin-right:auto;
   }
-</style>]]></content:encoded>
+</style><blockquote>
+</blockquote>
+]]></content:encoded>
     </item>
     
     <item>
@@ -112,7 +128,9 @@ First of all, let&amp;rsquo;s start with why I preferred HomeKit in the first pl
   margin-left:auto;
   margin-right:auto;
 }
-</style>]]></content:encoded>
+</style><blockquote>
+</blockquote>
+]]></content:encoded>
     </item>
     
     <item>
@@ -134,7 +152,9 @@ First of all, let&amp;rsquo;s start with why I preferred HomeKit in the first pl
   margin-right: auto !important;
   width: 60%;
 }
-</style>]]></content:encoded>
+</style><blockquote>
+</blockquote>
+]]></content:encoded>
     </item>
     
     <item>
@@ -324,7 +344,7 @@ Jexetic.me/Discord is a link to my Discord server. Jexetic.me/Spotify is a link 
       
       <guid>https://www.jexetic.com/gear/</guid>
       <description>My gaming setup and other tech specs :)
-Gaming PC Specs Motherboard: ASRock B450M/ac CPU: AMD Ryzen 7 2700X Processor 3.7GHz GPU: AMD Radeon RX 580 8GB GDDR5 RAM: 16GB DDR4-2666 RAM SSD: 250GB NVMe SSD Gaming Peripherals Monitor: HP x24ih 1080p 144hz Mouse: Razer Viper Mini Keyboard: TECWARE Phantom 87 Key, Outemu Brown Switches Headset: SteelSeries Arctis 7 Wireless External Storage: Samsung T7 Portable SSD Audio/Video Audio Interface: Focusrite Scarlett 2i2 Microphone: Shure MV7 Webcam: Logitech C270 Camera: GoPro Hero 11 </description>
+Gaming PC Specs Motherboard: ASRock B450M/ac CPU: AMD Ryzen 7 2700X Processor 3.7GHz GPU: AMD Radeon RX 580 8GB GDDR5 RAM: 16GB DDR4-2666 RAM SSD: 250GB NVMe SSD Gaming PC Peripherals Monitor: HP x24ih 1080p 144hz Mouse: Razer Viper Mini Keyboard: TECWARE Phantom 87 Key, Outemu Brown Switches Headset: SteelSeries Arctis 7 Wireless External Storage: Samsung T7 Portable SSD Audio/Video Audio Interface: Focusrite Scarlett 2i2 Microphone: Shure MV7 Webcam: Logitech C270 Camera: GoPro Hero 11 </description>
       <content:encoded><![CDATA[<p>My gaming setup and other tech specs :)</p>
 <h2 id="gaming-pc-specs">Gaming PC Specs</h2>
 <ul>
@@ -334,7 +354,7 @@ Gaming PC Specs Motherboard: ASRock B450M/ac CPU: AMD Ryzen 7 2700X Processor 3.
 <li><strong>RAM:</strong> 16GB DDR4-2666 RAM</li>
 <li><strong>SSD:</strong> 250GB NVMe SSD</li>
 </ul>
-<h2 id="gaming-peripherals">Gaming Peripherals</h2>
+<h2 id="gaming-pc-peripherals">Gaming PC Peripherals</h2>
 <ul>
 <li><strong>Monitor:</strong> HP x24ih 1080p 144hz</li>
 <li><strong>Mouse:</strong> Razer Viper Mini</li>
