@@ -338,46 +338,6 @@ Jexetic.me/Discord is a link to my Discord server. Jexetic.me/Spotify is a link 
     </item>
     
     <item>
-      <title>Discord</title>
-      <link>https://www.jexetic.com/discord-nomobile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.jexetic.com/discord-nomobile/</guid>
-      <description>Screen to small to display Discord widget. Try again on a larger screen or join the server.</description>
-      <content:encoded><![CDATA[<p>Screen to small to display Discord widget. Try again on a larger screen or <a href="https://www.jexetic.me/discord">join the server.</a></p>
-
-<script type="text/javascript">
-  if (screen.width > 799) {
-    document.location = "/discord/";
-  }
-</script>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Discord</title>
-      <link>https://www.jexetic.com/discord/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.jexetic.com/discord/</guid>
-      <description> </description>
-      <content:encoded><![CDATA[<center>
-<widgetbot
-    server="650774875560083477"
-    channel="842664418240102420"
-    width="800"
-    height="600"
-></widgetbot>
-<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
-</center>
-
-<script type="text/javascript">
-  if (screen.width <= 799) {
-    document.location = "/discord-nomobile";
-  }
-</script>]]></content:encoded>
-    </item>
-    
-    <item>
       <title>Gear</title>
       <link>https://www.jexetic.com/gear/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
