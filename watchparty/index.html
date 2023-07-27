@@ -5,7 +5,7 @@
 <body>
 <div class="bigscreen">
 
-<iframe src="https://player.angelthump.com/?channel=nomdeplume" style="border:0px #ffffff none;" name="thumpPlayer" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="100%" allowfullscreen></iframe>
+<iframe class="moviescreen" src="https://player.angelthump.com/?channel=nomdeplume" style="border:0px #ffffff none;" name="thumpPlayer" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="100%" allowfullscreen></iframe>
 
 <widgetbot
     server="650774875560083477"
@@ -26,8 +26,7 @@ height: 100%;
 }
 
 widgetbot {
-  max-width: 340px;
-  min-width: 300px;
+  flex-basis:340px;
   flex-grow: 0;
 }
 
@@ -35,21 +34,21 @@ body{
   background-color:#23272A;
 }
 
-iframe{
+.moviescreen{
   flex-grow: 1;
-  height:100%;
 }
 
-@media screen and (max-width:700px) {
+@media screen and (max-width:900px) {
   .bigscreen { 
     flex-wrap: wrap; 
   }
   widgetbot {
-    max-width:700px;
+    flex-grow:1;
+    max-height:60%
   }
-  iframe { 
-    flex-basis: 100%; 
-    max-height: 400px;
+  .moviescreen { 
+    flex-basis: 100%;
+    max-height:40%;
   }
 }
 </style>
