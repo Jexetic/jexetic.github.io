@@ -1,12 +1,12 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Watchparty | Jexetic.com</title>
+<title>WatchParty | Jexetic.com</title>
 </head>
 <body>
 
-<div class="bigscreen">
+<div class="party">
 
-<iframe id="moviescreen" name="moviescreen" class="moviescreen" src="https://jexetic.me/moviescreen" style="border:0px #ffffff none;" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="100%" allowfullscreen></iframe>
+<iframe id="bigscreen" name="bigscreen" class="bigscreen" src="https://jexetic.me/moviescreen" style="border:0px #ffffff none;" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="100%" allowfullscreen></iframe>
 
 <widgetbot
     server="650774875560083477"
@@ -27,7 +27,7 @@ body{
   margin:5px;
 }
 
-.bigscreen{
+.party{
 display: flex;
 gap:5px;
 height: 100%;
@@ -38,20 +38,20 @@ widgetbot {
   flex-grow: 0;
 }
 
-.moviescreen{
+.bigscreen{
   flex-grow: 1;
   border-radius:7px;
 }
 
 @media screen and (max-width:900px) {
-  .bigscreen { 
+  .party { 
     flex-wrap: wrap; 
   }
   widgetbot {
     flex-grow:1;
     max-height:60%
   }
-  .moviescreen { 
+  .bigscreen { 
     flex-basis: 100%;
     max-height:40%;
   }
