@@ -221,67 +221,6 @@ Even though I liked the Govee lights, my goal was to be able to use multiple bra
     </item>
     
     <item>
-      <title>Jexetic&#39;s Minecraft Server (The Basin)</title>
-      <link>https://www.jexetic.com/mcserver/</link>
-      <pubDate>Mon, 28 Nov 2022 18:52:16 -0700</pubDate>
-      
-      <guid>https://www.jexetic.com/mcserver/</guid>
-      <description>Below, you can read about the datapacks we have on the server. Datapacks are included in the world files (so you don&amp;rsquo;t need to download anything) and make slight changes to the vanilla game.
-Spawn To teleport to spawn/our main area, type /trigger spawn Homes Each player can set up to 5 homes.
-To set a home, type /trigger sethome set x (where x is a number 1-5). To teleport to a home, type /trigger home set x (where x is the number of the home you’d like to go to).</description>
-      <content:encoded><![CDATA[<p>Below, you can read about the datapacks we have on the server. Datapacks are included in the world files (so you don&rsquo;t need to download anything) and make slight changes to the vanilla game.</p>
-<h2 id="spawn">Spawn</h2>
-<p>To teleport to spawn/our main area, type <code>/trigger spawn</code> </p>
-<h2 id="homes">Homes</h2>
-<p>Each player can set up to 5 homes.</p>
-<p>To set a home, type <code>/trigger sethome set x</code> (where <code>x</code> is a number 1-5).
-To teleport to a home, type <code>/trigger home set x</code> (where <code>x</code> is the number of the home you’d like to go to).</p>
-<p>To delete a home, type <code>/trigger delhome set x</code> (where <code>x</code> is the number of the home you’d like to delete).
-To list your homes, type <code>/trigger homes</code> </p>
-<p>To name your homes, hold a nametag with the name you want and type <code>/trigger namehome set x</code> where x is the number of the home you’d like to name. Keep in mind that you still have to use the number and not the name in commands; this just sets a name you can see in the home list.</p>
-<h2 id="player-teleporting-tpa">Player Teleporting (TPA)</h2>
-<p>To teleport to a player, first hold tab and see what the yellow number to the right of their name is. 
-Then, type <code>/trigger tpa set x</code> where <code>x</code> is the number you found next to their name.</p>
-<p>To accept a teleport request, type <code>/trigger tpaccept</code></p>
-<h2 id="graves">Graves</h2>
-<p>To find your last death point, type <code>/trigger grave</code> 
-Once you find your grave, right click it while sneaking to retrieve your items.</p>
-<h2 id="coordinates-hud">Coordinates HUD</h2>
-<p>You can display your current coordinates (and some other in-game info) above your hot-bar if you’d like. Use the command <code>/trigger ch_toggle</code> to turn this display on and off.</p>
-<h2 id="armored-elytras">Armored Elytras</h2>
-<p>Drop a chestplate and an elytra on top of an anvil together to combine them into an armored elytra.</p>
-<h2 id="no-phantoms">No Phantoms</h2>
-<p>Phantoms are disabled. To get membranes, kill bats instead.</p>
-<h2 id="chairs">Chairs</h2>
-<p>Drop a saddle on a stair block to create a chair that you can right click to sit in.</p>
-<h2 id="speed-paths">Speed Paths</h2>
-<p>Use a shovel to create path blocks for a speed boost. This speed boost stacks with other sources of speed, like beacons or potions.</p>
-<h2 id="name-colors">Name Colors</h2>
-<p>Use <code>/trigger color</code>  to set your name color.</p>
-<h2 id="dragon-drops">Dragon Drops</h2>
-<p>Every time the dragon is killed, it will drop an Elytra and a Dragon Egg.</p>
-<h2 id="better-armor-stands">Better Armor Stands</h2>
-<p>You can use a book and quill to edit the positioning of armor stands. To learn more about this feature, <a href="https://wiki.gm4.co/wiki/Better_Armour_Stands" title="https://wiki.gm4.co/wiki/Better_Armour_Stands">click here</a>.</p>
-<h2 id="display-frames">Display Frames</h2>
-<p>Use an invisibility splash potion to turn an item frame into a display frame, which will only show the item without the frame background. </p>
-<h2 id="holographic-tags">Holographic Tags</h2>
-<p>Place a named nametag in an item frame to create text holograms. Place an item frame back in the same spot to retrieve the nametag and destroy the hologram. Place the item frame and nametag on any color wool to choose the color of the hologram text. The wool block can be changed to whatever else you want after creating the hologram.</p>
-<h2 id="more-mob-heads">More Mob Heads</h2>
-<p>There is a chance to receive a head when killing most mobs in the game.</p>
-<h2 id="player-heads">Player Heads</h2>
-<p>When killing a player, their head should drop outside of their grave. Enjoy.</p>
-<h2 id="timber">Timber</h2>
-<p>By default, you will chop down entire trees at once if you use an axe without sneaking. To turn this off or back on, run the command <code>/trigger TimberToggle</code> </p>
-<h2 id="xp-management">XP Management</h2>
-<p>Right click an enchantment table with an empty bottle to store some XP. Smelt the bottle in a furnace to get the XP back. DON’T throw the bottle or you will lose some of the XP.</p>
-<h2 id="elevators">Elevators</h2>
-<p>Drop an ender pearl on top of a wool block to turn it into an elevator. Jump or crouch to move between elevators of the same color that are directly above or below each other.</p>
-<h2 id="custom-recipes">Custom Recipes</h2>
-<p><a href="https://imgur.com/a/XfVpD2h" title="https://imgur.com/a/XfVpD2h">Click here</a> to see all the custom crafting and smelting recipes enabled on the server.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
       <title>Tech I Like (November 2022)</title>
       <link>https://www.jexetic.com/posts/my-tech-ecosystem-november-2022/</link>
       <pubDate>Mon, 28 Nov 2022 17:11:30 -0700</pubDate>
@@ -559,6 +498,67 @@ About Jexetic.me Jexetic&amp;rsquo;s Blog </description>
 <li><a href="/shortlinks">About Jexetic.me</a></li>
 <li><a href="/">Jexetic&rsquo;s Blog</a></li>
 </ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>The Basin</title>
+      <link>https://www.jexetic.com/mcserver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jexetic.com/mcserver/</guid>
+      <description>If you need help with a custom feature on the server, you can probably find it here.
+Teleport to spawn To teleport to spawn/our main area, type /trigger spawn Teleport home Each player can set up to 5 homes.
+To set a home, type /trigger sethome set x (where x is a number 1-5). To teleport to a home, type /trigger home set x (where x is the number of the home you’d like to go to).</description>
+      <content:encoded><![CDATA[<p>If you need help with a custom feature on the server, you can probably find it here.</p>
+<h2 id="teleport-to-spawn">Teleport to spawn</h2>
+<p>To teleport to spawn/our main area, type <code>/trigger spawn</code> </p>
+<h2 id="teleport-home">Teleport home</h2>
+<p>Each player can set up to 5 homes.</p>
+<p>To set a home, type <code>/trigger sethome set x</code> (where <code>x</code> is a number 1-5).
+To teleport to a home, type <code>/trigger home set x</code> (where <code>x</code> is the number of the home you’d like to go to).</p>
+<p>To delete a home, type <code>/trigger delhome set x</code> (where <code>x</code> is the number of the home you’d like to delete).
+To list your homes, type <code>/trigger homes</code> </p>
+<p>To name your homes, hold a nametag with the name you want and type <code>/trigger namehome set x</code> where x is the number of the home you’d like to name. Keep in mind that you still have to use the number and not the name in commands; this just sets a name you can see in the home list.</p>
+<h2 id="teleport-to-a-player">Teleport to a player</h2>
+<p>To teleport to a player, first hold tab and see what the yellow number to the right of their name is. 
+Then, type <code>/trigger tpa set x</code> where <code>x</code> is the number you found next to their name.</p>
+<p>To accept a teleport request, type <code>/trigger tpaccept</code></p>
+<h2 id="graves">Graves</h2>
+<p>To find your last death point, type <code>/trigger grave</code> 
+Once you find your grave, right click it while sneaking to retrieve your items.</p>
+<h2 id="coordinates-hud">Coordinates HUD</h2>
+<p>You can display your current coordinates (and some other in-game info) above your hot-bar if you’d like. Use the command <code>/trigger ch_toggle</code> to turn this display on and off.</p>
+<h2 id="add-armor-to-elytras">Add armor to elytras</h2>
+<p>Drop a chestplate and an elytra on top of an anvil together to combine them into an armored elytra.</p>
+<h2 id="phantom-membranes">Phantom membranes</h2>
+<p>Phantoms are disabled. To get phantom membranes, kill bats instead.</p>
+<h2 id="make-a-chair">Make a chair</h2>
+<p>Drop a saddle on a stair block to create a chair that you can right click to sit in.</p>
+<h2 id="make-speed-paths">Make speed paths</h2>
+<p>Use a shovel to create path blocks for a speed boost. This speed boost stacks with other sources of speed, like beacons or potions.</p>
+<h2 id="change-your-name-color">Change your name color</h2>
+<p>Use <code>/trigger color</code>  to set your name color.</p>
+<h2 id="dragon-drops">Dragon drops</h2>
+<p>Every time the dragon is killed, it will drop an Elytra and a Dragon Egg.</p>
+<h2 id="position-armor-stands">Position armor stands</h2>
+<p>You can use a book and quill to edit the positioning of armor stands. To learn more about this feature, <a href="https://wiki.gm4.co/wiki/Better_Armour_Stands" title="https://wiki.gm4.co/wiki/Better_Armour_Stands">click here</a>.</p>
+<h2 id="hide-item-frame-backgrounds">Hide item frame backgrounds</h2>
+<p>Use an invisibility splash potion to turn an item frame into a display frame, which will only show the item without the frame background. </p>
+<h2 id="create-holographs">Create holographs</h2>
+<p>Place a named nametag in an item frame to create text holograms. Place an item frame back in the same spot to retrieve the nametag and destroy the hologram. Place the item frame and nametag on any color wool to choose the color of the hologram text. The wool block can be changed to whatever else you want after creating the hologram.</p>
+<h2 id="get-mob-heads">Get mob heads</h2>
+<p>There is a chance to receive a head when killing most mobs in the game.</p>
+<h2 id="get-player-heads">Get player heads</h2>
+<p>When killing a player, their head should drop outside of their grave. Enjoy.</p>
+<h2 id="timber">Timber</h2>
+<p>By default, you will chop down entire trees at once if you use an axe without sneaking. To turn this off or back on, run the command <code>/trigger TimberToggle</code> </p>
+<h2 id="store-your-xp">Store your XP</h2>
+<p>Right click an enchantment table with an empty bottle to store some XP. Smelt the bottle in a furnace to get the XP back. DON’T throw the bottle or you will lose some of the XP.</p>
+<h2 id="make-an-elevator">Make an elevator</h2>
+<p>Drop an ender pearl on top of a wool block to turn it into an elevator. Jump or crouch to move between elevators of the same color that are directly above or below each other.</p>
+<h2 id="custom-recipes">Custom recipes</h2>
+<p><a href="https://imgur.com/a/XfVpD2h" title="https://imgur.com/a/XfVpD2h">Click here</a> to see all the custom crafting and smelting recipes enabled on the server.</p>
 ]]></content:encoded>
     </item>
     
