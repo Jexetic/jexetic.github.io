@@ -530,21 +530,21 @@ Once you find your grave, right click it while sneaking to retrieve your items.<
 <p>You can display your current coordinates (and some other in-game info) above your hot-bar if you’d like. Use the command <code>/trigger ch_toggle</code> to turn this display on and off.</p>
 <h2 id="add-armor-to-elytras">Add armor to elytras</h2>
 <p>Drop a chestplate and an elytra on top of an anvil together to combine them into an armored elytra.</p>
-<h2 id="phantom-membranes">Phantom membranes</h2>
+<h2 id="how-to-get-phantom-membranes">How to get phantom membranes</h2>
 <p>Phantoms are disabled. To get phantom membranes, kill bats instead.</p>
-<h2 id="make-a-chair">Make a chair</h2>
+<h2 id="chairs">Chairs</h2>
 <p>Drop a saddle on a stair block to create a chair that you can right click to sit in.</p>
-<h2 id="make-speed-paths">Make speed paths</h2>
+<h2 id="path-block-speed-effect">Path block speed effect</h2>
 <p>Use a shovel to create path blocks for a speed boost. This speed boost stacks with other sources of speed, like beacons or potions.</p>
 <h2 id="change-your-name-color">Change your name color</h2>
 <p>Use <code>/trigger color</code>  to set your name color.</p>
-<h2 id="dragon-drops">Dragon drops</h2>
+<h2 id="extra-ender-dragon-drops">Extra ender dragon drops</h2>
 <p>Every time the dragon is killed, it will drop an Elytra and a Dragon Egg.</p>
 <h2 id="position-armor-stands">Position armor stands</h2>
 <p>You can use a book and quill to edit the positioning of armor stands. To learn more about this feature, <a href="https://wiki.gm4.co/wiki/Better_Armour_Stands" title="https://wiki.gm4.co/wiki/Better_Armour_Stands">click here</a>.</p>
 <h2 id="hide-item-frame-backgrounds">Hide item frame backgrounds</h2>
 <p>Use an invisibility splash potion to turn an item frame into a display frame, which will only show the item without the frame background. </p>
-<h2 id="create-holographs">Create holographs</h2>
+<h2 id="holographs">Holographs</h2>
 <p>Place a named nametag in an item frame to create text holograms. Place an item frame back in the same spot to retrieve the nametag and destroy the hologram. Place the item frame and nametag on any color wool to choose the color of the hologram text. The wool block can be changed to whatever else you want after creating the hologram.</p>
 <h2 id="get-mob-heads">Get mob heads</h2>
 <p>There is a chance to receive a head when killing most mobs in the game.</p>
@@ -552,7 +552,7 @@ Once you find your grave, right click it while sneaking to retrieve your items.<
 <p>When killing a player, their head should drop outside of their grave. Enjoy.</p>
 <h2 id="get-custom-heads">Get custom heads</h2>
 <p>You can obtain custom player heads for decoration using the <code>/head</code> command. Each custom head will cost you 5 diamonds.</p>
-<h2 id="timber">Timber</h2>
+<h2 id="timber-quickly-chop-trees">Timber (quickly chop trees)</h2>
 <p>By default, you will chop down entire trees at once if you use an axe without sneaking. To turn this off or back on, run the command <code>/trigger TimberToggle</code> </p>
 <h2 id="store-your-xp">Store your XP</h2>
 <p>Right click an enchantment table with an empty bottle to store some XP. Smelt the bottle in a furnace to get the XP back. DON’T throw the bottle or you will lose some of the XP.</p>
@@ -560,7 +560,7 @@ Once you find your grave, right click it while sneaking to retrieve your items.<
 <p>Drop an ender pearl on top of a wool block to turn it into an elevator. Jump or crouch to move between elevators of the same color that are directly above or below each other.</p>
 <h2 id="custom-recipes">Custom recipes</h2>
 <p><a href="https://imgur.com/a/XfVpD2h" title="https://imgur.com/a/XfVpD2h">Click here</a> to see all the custom crafting and smelting recipes enabled on the server.</p>
-<h2 id="tower-structures">Tower Structures</h2>
+<h2 id="tower-structures">Tower structures</h2>
 <p>Towers spawn between Y=80 and Y=200 up high on hills and mountains. Some biomes have a specific dungeon variant: desert, ocean, mesa and snowy biomes.</p>
 <p>Spawners have a chance to be Spider, Skeleton, Creeper or Zombie. They are standard vanilla spawners with the vanilla mobs and a 16-block player range. Mobs spawned by these spawners will not drop xp or loot when killed.</p>
 <p>Towers contain loot chests. The quality of items is determined by how high the chest is with better loot appearing in chests higher up in the tower.</p>
