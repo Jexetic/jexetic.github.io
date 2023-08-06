@@ -507,11 +507,10 @@ About Jexetic.me Jexetic&amp;rsquo;s Blog </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.jexetic.com/mcserver/</guid>
-      <description>If you need help with a custom feature on the server, you can probably find it here.
-Teleport to spawn To teleport to spawn/our main area, type /trigger spawn Teleport home Each player can set up to 5 homes.
-To set a home, type /trigger sethome set x (where x is a number 1-5). To teleport to a home, type /trigger home set x (where x is the number of the home you’d like to go to).</description>
-      <content:encoded><![CDATA[<p>If you need help with a custom feature on the server, you can probably find it here.</p>
-<h2 id="teleport-to-spawn">Teleport to spawn</h2>
+      <description>Teleport to spawn To teleport to spawn/our main area, type /trigger spawn Teleport home Each player can set up to 5 homes.
+To set a home, type /trigger sethome set x (where x is a number 1-5). To teleport to a home, type /trigger home set x (where x is the number of the home you’d like to go to).
+To delete a home, type /trigger delhome set x (where x is the number of the home you’d like to delete).</description>
+      <content:encoded><![CDATA[<h2 id="teleport-to-spawn">Teleport to spawn</h2>
 <p>To teleport to spawn/our main area, type <code>/trigger spawn</code> </p>
 <h2 id="teleport-home">Teleport home</h2>
 <p>Each player can set up to 5 homes.</p>
@@ -566,6 +565,11 @@ Once you find your grave, right click it while sneaking to retrieve your items.<
 <p>Spawners have a chance to be Spider, Skeleton, Creeper or Zombie. They are standard vanilla spawners with the vanilla mobs and a 16-block player range. Mobs spawned by these spawners will not drop xp or loot when killed.</p>
 <p>Towers contain loot chests. The quality of items is determined by how high the chest is with better loot appearing in chests higher up in the tower.</p>
 <p><a href="https://wiki.gm4.co/wiki/Orbis/Tower_Structures">Learn more about tower structures</a></p>
+<style>
+html{
+scroll-padding: 20px;
+}
+</style>
 ]]></content:encoded>
     </item>
     
