@@ -551,6 +551,8 @@ Once you find your grave, right click it while sneaking to retrieve your items.<
 <p>There is a chance to receive a head when killing most mobs in the game.</p>
 <h2 id="get-player-heads">Get player heads</h2>
 <p>When killing a player, their head should drop outside of their grave. Enjoy.</p>
+<h2 id="get-custom-heads">Get custom heads</h2>
+<p>You can obtain custom player heads for decoration using the <code>/head</code> command. Each custom head will cost you 5 diamonds.</p>
 <h2 id="timber">Timber</h2>
 <p>By default, you will chop down entire trees at once if you use an axe without sneaking. To turn this off or back on, run the command <code>/trigger TimberToggle</code> </p>
 <h2 id="store-your-xp">Store your XP</h2>
@@ -559,6 +561,11 @@ Once you find your grave, right click it while sneaking to retrieve your items.<
 <p>Drop an ender pearl on top of a wool block to turn it into an elevator. Jump or crouch to move between elevators of the same color that are directly above or below each other.</p>
 <h2 id="custom-recipes">Custom recipes</h2>
 <p><a href="https://imgur.com/a/XfVpD2h" title="https://imgur.com/a/XfVpD2h">Click here</a> to see all the custom crafting and smelting recipes enabled on the server.</p>
+<h2 id="tower-structures">Tower Structures</h2>
+<p>Towers spawn between Y=80 and Y=200 up high on hills and mountains. Some biomes have a specific dungeon variant: desert, ocean, mesa and snowy biomes.</p>
+<p>Spawners have a chance to be Spider, Skeleton, Creeper or Zombie. They are standard vanilla spawners with the vanilla mobs and a 16-block player range. Mobs spawned by these spawners will not drop xp or loot when killed.</p>
+<p>Towers contain loot chests. The quality of items is determined by how high the chest is with better loot appearing in chests higher up in the tower.</p>
+<p><a href="https://wiki.gm4.co/wiki/Orbis/Tower_Structures">Learn more about tower structures</a></p>
 ]]></content:encoded>
     </item>
     
