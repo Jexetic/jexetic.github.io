@@ -554,8 +554,8 @@ Once you find your grave, right click it while sneaking to retrieve your items.<
 <p>You can obtain custom player heads for decoration using the <code>/head</code> command. Each custom head will cost you 5 diamonds.</p>
 <h2 id="timber-quickly-chop-trees">Timber (quickly chop trees)</h2>
 <p>By default, you will chop down entire trees at once if you use an axe without sneaking. To turn this off or back on, run the command <code>/trigger TimberToggle</code> </p>
-<h2 id="store-your-xp">Store your XP</h2>
-<p>Right click an enchantment table with an empty bottle to store some XP. Smelt the bottle in a furnace to get the XP back. DON’T throw the bottle or you will lose some of the XP.</p>
+<h2 id="store-your-xp-in-your-ender-chest">Store your XP in your ender chest</h2>
+<p>Stand on top of an ender chest to store your XP for later. Stand under the ender chest to get the XP back when you&rsquo;re ready to use it.</p>
 <h2 id="make-an-elevator">Make an elevator</h2>
 <p>Drop an ender pearl on top of a wool block to turn it into an elevator. Jump or crouch to move between elevators of the same color that are directly above or below each other.</p>
 <h2 id="custom-recipes">Custom recipes</h2>
