@@ -569,6 +569,11 @@ Once you find your grave, right click it while sneaking to retrieve your items.<
 html{
 scroll-padding: 20px;
 }
+
+:target {
+   background-color: #4a4a4a;
+   padding:20px;
+}
 </style>
 ]]></content:encoded>
     </item>
