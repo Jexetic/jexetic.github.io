@@ -507,10 +507,14 @@ About Jexetic.me Jexetic&amp;rsquo;s Blog </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.jexetic.com/mcserver/</guid>
-      <description>Teleport to spawn To teleport to spawn/our main area, type /trigger spawn Teleport home Each player can set up to 5 homes.
-To set a home, type /trigger sethome set x (where x is a number 1-5). To teleport to a home, type /trigger home set x (where x is the number of the home you’d like to go to).
-To delete a home, type /trigger delhome set x (where x is the number of the home you’d like to delete).</description>
-      <content:encoded><![CDATA[<h2 id="teleport-to-spawn">Teleport to spawn</h2>
+      <description>If you have a question about the Minecraft server, you can probably find the answer on this page.
+The Map You can view the map in your browser at Jexetic.me/map.
+Teleport to spawn To teleport to spawn/our main area, type /trigger spawn Teleport home Each player can set up to 5 homes.
+To set a home, type /trigger sethome set x (where x is a number 1-5). To teleport to a home, type /trigger home set x (where x is the number of the home you’d like to go to).</description>
+      <content:encoded><![CDATA[<p>If you have a question about the Minecraft server, you can probably find the answer on this page.</p>
+<h2 id="the-map">The Map</h2>
+<p>You can view the map in your browser at <a href="https://jexetic.me/map">Jexetic.me/map</a>.</p>
+<h2 id="teleport-to-spawn">Teleport to spawn</h2>
 <p>To teleport to spawn/our main area, type <code>/trigger spawn</code> </p>
 <h2 id="teleport-home">Teleport home</h2>
 <p>Each player can set up to 5 homes.</p>
@@ -568,11 +572,6 @@ Once you find your grave, right click it while sneaking to retrieve your items.<
 <style>
 html{
 scroll-padding: 20px;
-}
-
-:target {
-   background-color: #4a4a4a;
-   padding:20px;
 }
 </style>
 ]]></content:encoded>
