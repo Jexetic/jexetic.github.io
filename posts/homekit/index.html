@@ -159,10 +159,15 @@ Even though I liked the Govee lights, my goal was to be able to use multiple bra
 <style>
 .post-header {
   overflow: auto;  
-  margin-bottom:25px;
+  padding-bottom:12px;
+  position:sticky;
+  top:0;
+  background: rgba(29,30,32,0.9);
+  padding-top:15px;
 }
 
 .header-img {
+  top:0px;
   float: right;
   width:75px;
   height:75px;
@@ -188,16 +193,19 @@ Even though I liked the Govee lights, my goal was to be able to use multiple bra
 @media (max-width: 500px){
   .page-header h1{
     font-size:30px;
-}
-
+  }
   .header-img{
     display: none;
+  }
+  .post-header{
+    position:static !important;
+  }
 }
 </style>
 
 <article class="post-single">
-  <a href="/posts"><img src="/blog.png" class="header-img"></a>
   <header class="post-header">
+    <a href="/posts"><img src="/blog.png" class="header-img"></a>
     
     <h1 class="post-title">
       Thoughts on HomeKit vs Alexa
