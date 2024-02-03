@@ -338,10 +338,10 @@ Jexetic.me/Discord is a link to my Discord server. Jexetic.me/Spotify is a link 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.jexetic.com/gear/</guid>
-      <description>My gaming setup and other tech specs :)
-Gaming PC Specs Motherboard: ASRock B450M/ac CPU: AMD Ryzen 7 2700X Processor 3.7GHz GPU: AMD Radeon RX 580 8GB GDDR5 RAM: 16GB DDR4-2666 RAM SSD: 250GB NVMe SSD Gaming PC Peripherals Monitor: HP x24ih 1080p 144hz Mouse: Razer Viper Mini Keyboard: TECWARE Phantom 87 Key, Outemu Brown Switches Headset: SteelSeries Arctis 7 Wireless External Storage: Samsung T7 Portable SSD Audio/Video Audio Interface: Focusrite Scarlett 2i2 Microphone: Shure MV7 Webcam: Logitech C270 Camera: GoPro Hero 11 </description>
-      <content:encoded><![CDATA[<p>My gaming setup and other tech specs :)</p>
-<h2 id="gaming-pc-specs">Gaming PC Specs</h2>
+      <description>My Gaming Setup :)
+PC Specs Motherboard: ASRock B450M/ac CPU: AMD Ryzen 7 2700X Processor 3.7GHz GPU: AMD Radeon RX 580 8GB GDDR5 RAM: 16GB DDR4-2666 RAM SSD: 250GB NVMe SSD Peripherals Monitor: HP x24ih 1080p 144hz Mouse: Razer Viper Mini Keyboard: TECWARE Phantom 87 Key, Outemu Brown Switches Headset: SteelSeries Arctis 7 Wireless Speaker: SOULION R30 Computer Speakers Audio Interface: Focusrite Scarlett 2i2 Microphone: Shure MV7 Webcam: Logitech C270 External Storage: Samsung T7 Portable SSD </description>
+      <content:encoded><![CDATA[<p>My Gaming Setup :)</p>
+<h2 id="pc-specs">PC Specs</h2>
 <ul>
 <li><strong>Motherboard:</strong> ASRock B450M/ac</li>
 <li><strong>CPU:</strong> AMD Ryzen 7 2700X Processor 3.7GHz</li>
@@ -349,20 +349,17 @@ Gaming PC Specs Motherboard: ASRock B450M/ac CPU: AMD Ryzen 7 2700X Processor 3.
 <li><strong>RAM:</strong> 16GB DDR4-2666 RAM</li>
 <li><strong>SSD:</strong> 250GB NVMe SSD</li>
 </ul>
-<h2 id="gaming-pc-peripherals">Gaming PC Peripherals</h2>
+<h2 id="peripherals">Peripherals</h2>
 <ul>
 <li><strong>Monitor:</strong> HP x24ih 1080p 144hz</li>
 <li><strong>Mouse:</strong> Razer Viper Mini</li>
 <li><strong>Keyboard:</strong> TECWARE Phantom 87 Key, Outemu Brown Switches</li>
 <li><strong>Headset:</strong> SteelSeries Arctis 7 Wireless</li>
-<li><strong>External Storage:</strong> Samsung T7 Portable SSD</li>
-</ul>
-<h2 id="audiovideo">Audio/Video</h2>
-<ul>
+<li><strong>Speaker:</strong> SOULION R30 Computer Speakers</li>
 <li><strong>Audio Interface:</strong> Focusrite Scarlett 2i2</li>
 <li><strong>Microphone:</strong> Shure MV7</li>
 <li><strong>Webcam:</strong> Logitech C270</li>
-<li><strong>Camera:</strong> GoPro Hero 11</li>
+<li><strong>External Storage:</strong> Samsung T7 Portable SSD</li>
 </ul>
 ]]></content:encoded>
     </item>
