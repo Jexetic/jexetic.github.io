@@ -333,38 +333,6 @@ Jexetic.me/Discord is a link to my Discord server. Jexetic.me/Spotify is a link 
     </item>
     
     <item>
-      <title>Gear</title>
-      <link>https://www.jexetic.com/gear/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.jexetic.com/gear/</guid>
-      <description>My Gaming Setup :)
-PC Specs Motherboard: ASRock B450M/ac CPU: AMD Ryzen 7 2700X Processor 3.7GHz GPU: AMD Radeon RX 580 8GB GDDR5 RAM: 16GB DDR4-2666 RAM SSD: 250GB NVMe SSD Peripherals Monitor: HP x24ih 1080p 144hz Mouse: Razer Viper Mini Keyboard: TECWARE Phantom 87 Key, Outemu Brown Switches Headset: SteelSeries Arctis 7 Wireless Speaker: SOULION R30 Computer Speakers Audio Interface: Focusrite Scarlett 2i2 Microphone: Shure MV7 Webcam: Logitech C270 External Storage: Samsung T7 Portable SSD </description>
-      <content:encoded><![CDATA[<p>My Gaming Setup :)</p>
-<h2 id="pc-specs">PC Specs</h2>
-<ul>
-<li><strong>Motherboard:</strong> ASRock B450M/ac</li>
-<li><strong>CPU:</strong> AMD Ryzen 7 2700X Processor 3.7GHz</li>
-<li><strong>GPU:</strong> AMD Radeon RX 580 8GB GDDR5</li>
-<li><strong>RAM:</strong> 16GB DDR4-2666 RAM</li>
-<li><strong>SSD:</strong> 250GB NVMe SSD</li>
-</ul>
-<h2 id="peripherals">Peripherals</h2>
-<ul>
-<li><strong>Monitor:</strong> HP x24ih 1080p 144hz</li>
-<li><strong>Mouse:</strong> Razer Viper Mini</li>
-<li><strong>Keyboard:</strong> TECWARE Phantom 87 Key, Outemu Brown Switches</li>
-<li><strong>Headset:</strong> SteelSeries Arctis 7 Wireless</li>
-<li><strong>Speaker:</strong> SOULION R30 Computer Speakers</li>
-<li><strong>Audio Interface:</strong> Focusrite Scarlett 2i2</li>
-<li><strong>Microphone:</strong> Shure MV7</li>
-<li><strong>Webcam:</strong> Logitech C270</li>
-<li><strong>External Storage:</strong> Samsung T7 Portable SSD</li>
-</ul>
-]]></content:encoded>
-    </item>
-    
-    <item>
       <title>Jexetic&#39;s Discord Archives</title>
       <link>https://www.jexetic.com/discordlogs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -465,6 +433,38 @@ Discord Server</description>
 <center><iframe class="shortex" width="333" height="592" src="https://www.youtube.com/embed/00qEYGV2gFY" title="this is why i&#39;m still silver" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe class="shortex" width="333" height="592" src="https://www.youtube.com/embed/mVbdExD7rM8" title="the BEST csgo lineup of ALL TIME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 <h2 id="hire-me">Hire me</h2>
 <p>If you like what you see and want to discuss pricing, email <code>tyler@jexetic.com</code> with details about your project, or <a href="mailto:tyler@jexetic.com">click here</a> to compose a message in your default mail client. I&rsquo;ll get back to you as quickly as I can :)</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>PC Specs</title>
+      <link>https://www.jexetic.com/pcspecs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jexetic.com/pcspecs/</guid>
+      <description>My Gaming Setup :)
+PC Specs Motherboard: ASRock B450M/ac CPU: AMD Ryzen 7 2700X Processor 3.7GHz GPU: AMD Radeon RX 580 8GB GDDR5 RAM: 16GB DDR4-2666 RAM SSD: 250GB NVMe SSD Peripherals Monitor: HP x24ih 1080p 144hz Mouse: Razer Viper Mini Keyboard: TECWARE Phantom 87 Key, Outemu Brown Switches Headset: SteelSeries Arctis 7 Wireless Speaker: SOULION R30 Computer Speakers Audio Interface: Focusrite Scarlett 2i2 Microphone: Shure MV7 Webcam: Logitech C270 External Storage: Samsung T7 Portable SSD </description>
+      <content:encoded><![CDATA[<p>My Gaming Setup :)</p>
+<h2 id="pc-specs">PC Specs</h2>
+<ul>
+<li><strong>Motherboard:</strong> ASRock B450M/ac</li>
+<li><strong>CPU:</strong> AMD Ryzen 7 2700X Processor 3.7GHz</li>
+<li><strong>GPU:</strong> AMD Radeon RX 580 8GB GDDR5</li>
+<li><strong>RAM:</strong> 16GB DDR4-2666 RAM</li>
+<li><strong>SSD:</strong> 250GB NVMe SSD</li>
+</ul>
+<h2 id="peripherals">Peripherals</h2>
+<ul>
+<li><strong>Monitor:</strong> HP x24ih 1080p 144hz</li>
+<li><strong>Mouse:</strong> Razer Viper Mini</li>
+<li><strong>Keyboard:</strong> TECWARE Phantom 87 Key, Outemu Brown Switches</li>
+<li><strong>Headset:</strong> SteelSeries Arctis 7 Wireless</li>
+<li><strong>Speaker:</strong> SOULION R30 Computer Speakers</li>
+<li><strong>Audio Interface:</strong> Focusrite Scarlett 2i2</li>
+<li><strong>Microphone:</strong> Shure MV7</li>
+<li><strong>Webcam:</strong> Logitech C270</li>
+<li><strong>External Storage:</strong> Samsung T7 Portable SSD</li>
+</ul>
 ]]></content:encoded>
     </item>
     
