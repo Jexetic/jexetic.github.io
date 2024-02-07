@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Archived Posts on Jexetic</title>
+    <link>https://www.jexetic.com/archived/</link>
+    <description>Recent content in Archived Posts on Jexetic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jul 2023 11:02:46 -0600</lastBuildDate><atom:link href="https://www.jexetic.com/archived/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caring Less</title>
+      <link>https://www.jexetic.com/archived/caring-less/</link>
+      <pubDate>Wed, 05 Jul 2023 11:02:46 -0600</pubDate>
+      
+      <guid>https://www.jexetic.com/archived/caring-less/</guid>
+      <description>I had a terrible day at work yesterday. I’ve been sick with something, idk what, but on top of that preventing me from sleeping well for several days and making me feel generally crappy and then another situation during work that really irritated me, it was just an awful day. Part of the problem, though, is I care too much. I have to get better at not caring about dumb things my manager says.</description>
+      <content:encoded><![CDATA[<p>I had a terrible day at work yesterday. I’ve been sick with something, idk what, but on top of that preventing me from sleeping well for several days and making me feel generally crappy and then another situation during work that really irritated me, it was just an awful day. Part of the problem, though, is I care too much. I have to get better at not caring about dumb things my manager says. I have to enjoy my day regardless of what happens at work. Even if my manager says some stupid shit to me, I can just go to Starbucks after my shift and forget about it, and then go back to work the next day and make more money. So I’m going to try to work on that.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Religion &amp; Pronouns</title>
+      <link>https://www.jexetic.com/archived/religion-and-pronouns/</link>
+      <pubDate>Sat, 17 Jun 2023 19:18:40 -0600</pubDate>
+      
+      <guid>https://www.jexetic.com/archived/religion-and-pronouns/</guid>
+      <description>Bitwarden has recently fired their vice president of software engineering in Jacksonville, Florida for listing his pronouns in Slack as “assigned by God.”
+Let’s talk about that for a moment. Did God, in this case, not assign you a specific gender? When people talk about you, do they not refer to you as he or her? Your religion is against a whole chunk of the English language? Having your pronouns assigned by God doesn’t even clash with listing them in Slack.</description>
+      <content:encoded><![CDATA[<p>Bitwarden has recently fired their vice president of software engineering in Jacksonville, Florida for listing his pronouns in Slack as “assigned by God.”</p>
+<p>Let’s talk about that for a moment. Did God, in this case, not assign you a specific gender? When people talk about you, do they not refer to you as he or her? Your religion is against a whole chunk of the English language? Having your pronouns assigned by God doesn’t even clash with listing them in Slack. You firmly believe you were assigned he/him by God and that shouldn’t be changed. Fine! Literally just list those assigned pronouns. I’m quite confused about what’s difficult here.</p>
+<p>Has anyone ever said “Yeah I was talking to assigned by God today and assigned by God is really having a rough time with assigned by God’s inability to do basic tasks.” Oh, they haven’t? Because your pronouns are he/him? And “assigned by God” isn’t a pronoun? Weird.</p>
+<p>If you aren&rsquo;t using a password manager, you should be, and I highly recommend Bitwarden :)</p>
+<p><em>Edited 6/18/23 to fix a typo, clarify a bit, and change title</em></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Hey Google, Stop Screwing With My Metadata!</title>
+      <link>https://www.jexetic.com/archived/google-photos-metadata/</link>
+      <pubDate>Mon, 06 Mar 2023 12:27:05 -0700</pubDate>
+      
+      <guid>https://www.jexetic.com/archived/google-photos-metadata/</guid>
+      <description>I like Google Photos. I’ve considered other options, like Dropbox, but the thing that keeps me paying for Google One storage is how nicely Google Photos take all the photos I throw at it and organizes them for me. I don’t have to worry about manually tagging photos or making albums. If I wanna go back and look my photos later, they’re already neatly arranged for me. I choose to backup everything in original quality, because of course I want to be able to go back later and get that photo or video in original resolution if I need or want it.</description>
+      <content:encoded><![CDATA[<p>I like Google Photos. I’ve considered other options, like Dropbox, but the thing that keeps me paying for Google One storage is how nicely Google Photos take all the photos I throw at it and organizes them for me. I don’t have to worry about manually tagging photos or making albums. If I wanna go back and look my photos later, they’re already neatly arranged for me. </p>
+<p>I choose to backup everything in original quality, because of course I want to be able to go back later and get that photo or video in original resolution if I need or want it. As a side-note, this is why I wasn’t really bothered when they discontinued free unlimited uploads; I want my backup in full quality anyway. I also very much like to be able to grab <em>all</em> of my photos &amp; videos at once, in full quality, so I can keep them backed up and not rely solely on Google. Luckily, Google Takeout makes this really easy. Well, almost&hellip;</p>
+<p>You see, Google Takeout <em>does</em> export all your photos and videos in full quality for you. It even exports the metadata for you, like the creation date and location. The problem is, is exports that data <em>separately!</em> What?! Why is the date my photo was taken stored in some random JSON file instead of, you know, in file itself like it should be? The only obvious reason I can guess is to keep you from easily moving your entire library to another competing service. But they’re my photos. If I want to move them, I will. What the hell, Google? Why are you stripping my photos of their metadata and then giving it back to me in a different file? Why??</p>
+<p>Luckily, there is a program that exists to fix this issue. Aptly named “Google Photos Metadata Fixer,” it does just that. You upload your Google Photos Takeout zip, and it combines the metadata back into the photos themselves. You know, the way Google should give it to you in the first place. I didn’t really mind paying for the program. It works great. My only worry is that eventually, Google will decide to stop giving me the metadata altogether, or make it harder to export my library in a new way. I take regular Takeout backups rather than relying solely on Google to store anything, and it’s because they do things like this that make me question whether my data is truly safe with them. It’s a shame, because I truly can’t bring myself to switch to any competitor because of how good Google Photos is otherwise.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Medal is Ruined</title>
+      <link>https://www.jexetic.com/archived/medal-is-ruined/</link>
+      <pubDate>Tue, 01 Nov 2022 17:51:24 -0600</pubDate>
+      
+      <guid>https://www.jexetic.com/archived/medal-is-ruined/</guid>
+      <description>There’s this app called Medal that I have somewhat liked for a while. Basically, it’s an app to capture and trim gaming moments with a hotkey so you can share them in Discord or whatever. I actually generally just used OBS to do the actual recording, so what Medal was good for in my scenario was trimming down those replay clips and providing an easy place to host them so I could share them into a Discord server.</description>
+      <content:encoded><![CDATA[<p>There’s this app called Medal that I have somewhat liked for a while. Basically, it’s an app to capture and trim gaming moments with a hotkey so you can share them in Discord or whatever. I actually generally just used OBS to do the actual recording, so what Medal was good for in my scenario was trimming down those replay clips and providing an easy place to host them so I could share them into a Discord server. Unfortunately, that functionality is essentially gone. Yes, you can still use Medal to share clips to Discord. But they’ve completely disabled embeds. Let’s be real: nobody wants to open their web browser just to watch a 15-30 second gaming clip. Removing Discord embeds immediately makes the app less useful. Unfortunately, it doesn’t even end there. Medal now also wants to charge you to download the clips you’re hosting there if you don’t want them to add a watermark. This just plain sucks, to be honest. This means it’s hardly useful as a place to actually store/host clips anymore. If I’m gonna pay for somewhere to host the clips I may as well just pay for something like Streamable and get 2TB for whatever video uploads I want, and they’ll actually embed to Discord. Or, you know, just throw them on YouTube for free. Which also embeds to Discord. C’mon Medal, you know what we’re using your app for. You ruined it. RIP.</p>
+<p>Update: They have added back the ability to embed to Discord, although it&rsquo;s now controlled by a setting which seems to be disabled by default which is just odd. You do still need to pay if you&rsquo;d like to be able to download your clips without a Medal watermark.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
