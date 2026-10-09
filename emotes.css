@@ -1,0 +1,60 @@
+body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
+
+
+.chat_line {
+line-height: 1.2em !important;
+margin-top: 0.25em;
+animation: fadeInUp .25s ease forwards, fadeOut 0.5s ease 30s forwards;
+}
+
+.emote, .emoji{
+max-width: 120px !important;
+max-height: 40px !important;
+margin-top:-0.05em !important;
+margin-bottom:-0.05em !important;
+margin-right:0px !important;
+margin-left:0px !important;
+}
+
+.emoji{
+height:40px !important;
+}
+
+.upscale {
+height: 40px !important;
+}
+
+#chat_container{
+padding: 7px !important;
+}
+
+.colon{
+margin-right:6px !important;
+}
+
+#chat_container .nick, #chat_container .message, #chat_container .colon { 
+text-shadow: 2px 2px 2px black;
+}
+
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: scaleY(0);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scaleY(1);
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
