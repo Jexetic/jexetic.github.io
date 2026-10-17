@@ -1,5 +1,12 @@
 body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
 
+.chat_line[data-nick="jexetic"] > .user_info > .nick {
+background-image: url("https://cdn.7tv.app/paint/01JS20C0NEG8PCCXYJJJ9XY12V/layer/01K4DJCWS6CASRCT5JGG4EC1VZ/4x.webp") !important;
+filter: drop-shadow(rgb(0, 0, 255) 0px 0px 0.5px) drop-shadow(rgb(0, 0, 255) 0px 0px 0.5px) drop-shadow(rgb(0, 0, 255) 0px 0px 0.5px) drop-shadow(rgba(0, 255, 255, 0.498) 0px 0px 3px) !important;
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+}
 
 .chat_line {
 line-height: 1.2em !important;
