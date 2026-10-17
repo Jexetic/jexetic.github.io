@@ -1,8 +1,7 @@
 .chat_line[data-nick="lolaoffline"] > .user_info > .nick {
-background-image:none !important;
+background-image:url(https://cdn.7tv.app/paint/01JHXJH9C9MHN9FJMPNQB4YZ4N/layer/01JN9M5PDPQ7CVTXZBKA7PNTZ2/4x.webp) !important;
 text-shadow: none !important;
-background: linear-gradient(0deg, rgb(112, 36, 255) 23%, rgb(0, 255, 238) 61%, rgb(0, 255, 179) 73%) center center / cover padding-box text !important;
 color: transparent !important;
 -webkit-text-fill-color: transparent !important;
-filter: drop-shadow(rgb(52, 193, 254) 0px 0px 0.1px) !important;
+filter: drop-shadow(rgb(151, 141, 226) 0px 0px 0.1px) drop-shadow(rgb(0, 28, 168) 1px 1px 0.1px) !important;
 }
