@@ -1,0 +1,20 @@
+.chat_line[data-nick="lolaoffline"] > .user_info > .nick {
+background-image:none !important;
+background: linear-gradient(0deg, rgb(112, 36, 255) 23%, rgb(0, 255, 238) 61%, rgb(0, 255, 179) 73%) center center / cover padding-box text !important;
+filter: drop-shadow(rgb(0, 55, 107) 1px 1px 0.1px) !important;
+
+.chat_line[data-nick="zennxzo"] > .user_info > .nick {
+background-image: url("https://cdn.7tv.app/paint/01KGJ047HHK6Z13CV2Z62WZSYA/layer/01KJPTX9WX5XH6H0Q2JZ6DX2MS/4x.webp") !important;
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+filter: drop-shadow(rgb(0, 55, 107) 1px 1px 0.1px) !important;
+}
+
+.chat_line[data-nick="haxnettech"] > .user_info > .nick {
+background-image: url("https://cdn.7tv.app/paint/01KGJ047HHK6Z13CV2Z62WZSYA/layer/01KJPTX9WX5XH6H0Q2JZ6DX2MS/4x.webp") !important;
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+filter: drop-shadow(rgb(0, 55, 107) 1px 1px 0.1px) !important;
+}
