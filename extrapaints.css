@@ -20,13 +20,13 @@ filter: drop-shadow(rgb(221, 34, 81) 0px 0px 0.1px) drop-shadow(rgb(227, 22, 22)
 }
 
 .chat_line[data-nick="jexetic"] > .user_info > .nick {
-background-image:url(https://cdn.7tv.app/paint/01JFQV4W300XYMWDJW7E1TVY34/layer/01JX6ANAHY9JZXQTV4JGBPRYT9/4x.webp) !important;
+background-image:url(https://cdn.7tv.app/paint/01JS20C0NEG8PCCXYJJJ9XY12V/layer/01K4DJCWS6CASRCT5JGG4EC1VZ/4x.webp) !important;
 background-clip: text;
 -webkit-background-clip: text;
 text-shadow: none !important;
 color: transparent !important;
 -webkit-text-fill-color: transparent !important;
-filter: drop-shadow(rgb(0, 55, 107) 1px 1px 0.1px) drop-shadow(rgb(0, 161, 201) 0px 0px 4px) !important;
+filter: drop-shadow(rgb(0, 0, 255) 0px 0px 0.5px) drop-shadow(rgb(0, 0, 255) 0px 0px 0.5px) drop-shadow(rgb(0, 0, 255) 0px 0px 0.5px) drop-shadow(rgba(0, 255, 255, 0.498) 0px 0px 3px) !important;
 }
 
 .chat_line[data-nick="haxnettech"] > .user_info > .nick {
