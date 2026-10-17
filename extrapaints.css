@@ -28,3 +28,13 @@ color: transparent !important;
 -webkit-text-fill-color: transparent !important;
 filter: drop-shadow(rgb(0, 55, 107) 1px 1px 0.1px) drop-shadow(rgb(0, 161, 201) 0px 0px 4px) !important;
 }
+
+.chat_line[data-nick="haxnettech"] > .user_info > .nick {
+background-image:url(https://cdn.7tv.app/paint/01KGJ047HHK6Z13CV2Z62WZSYA/layer/01KJPTX9WX5XH6H0Q2JZ6DX2MS/4x.webp) !important;
+background-clip: text;
+-webkit-background-clip: text;
+text-shadow: none !important;
+color: transparent !important;
+-webkit-text-fill-color: transparent !important;
+filter: drop-shadow(2px 2px 1px #000000) !important;
+}
