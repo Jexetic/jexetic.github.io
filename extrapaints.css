@@ -36,5 +36,5 @@ background-clip: text;
 text-shadow: none !important;
 color: transparent !important;
 -webkit-text-fill-color: transparent !important;
-filter: drop-shadow(2px 2px 1px #000000) !important;
+filter: drop-shadow(2px 2px 2px #094600) !important;
 }
