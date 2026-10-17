@@ -1,5 +1,6 @@
 .chat_line[data-nick="lolaoffline"] > .user_info > .nick {
 background-image:none !important;
+text-shadow: none !important;
 background: linear-gradient(0deg, rgb(112, 36, 255) 23%, rgb(0, 255, 238) 61%, rgb(0, 255, 179) 73%) center center / cover padding-box text !important;
 color: transparent !important;
 -webkit-text-fill-color: transparent !important;
