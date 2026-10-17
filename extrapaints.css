@@ -1,7 +1,7 @@
 .chat_line[data-nick="lolaoffline"] > .user_info > .nick {
-background-image:url(https://cdn.7tv.app/paint/01JHXJH9C9MHN9FJMPNQB4YZ4N/layer/01JN9M5PDPQ7CVTXZBKA7PNTZ2/4x.webp) !important;
-background-clip: text;
--webkit-background-clip: text;
+background:url(https://cdn.7tv.app/paint/01JHXJH9C9MHN9FJMPNQB4YZ4N/layer/01JN9M5PDPQ7CVTXZBKA7PNTZ2/4x.webp) center / cover !important;
+background-clip: text !important;
+-webkit-background-clip: text !important;
 text-shadow: none !important;
 color: transparent !important;
 -webkit-text-fill-color: transparent !important;
@@ -20,9 +20,9 @@ filter: drop-shadow(rgb(221, 34, 81) 0px 0px 0.1px) drop-shadow(rgb(227, 22, 22)
 }
 
 .chat_line[data-nick="jexetic"] > .user_info > .nick {
-background-image:url(https://cdn.7tv.app/paint/01JS20C0NEG8PCCXYJJJ9XY12V/layer/01K4DJCWS6CASRCT5JGG4EC1VZ/4x.webp) !important;
-background-clip: text;
--webkit-background-clip: text;
+background:url(https://cdn.7tv.app/paint/01JS20C0NEG8PCCXYJJJ9XY12V/layer/01K4DJCWS6CASRCT5JGG4EC1VZ/4x.webp) center / cover !important;
+background-clip: text !important;
+-webkit-background-clip: text !important;
 text-shadow: none !important;
 color: transparent !important;
 -webkit-text-fill-color: transparent !important;
@@ -30,9 +30,9 @@ filter: drop-shadow(rgb(0, 0, 255) 0px 0px 0.5px) drop-shadow(rgb(0, 0, 255) 0px
 }
 
 .chat_line[data-nick="haxnettech"] > .user_info > .nick {
-background-image:url(https://cdn.7tv.app/paint/01KGJ047HHK6Z13CV2Z62WZSYA/layer/01KJPTX9WX5XH6H0Q2JZ6DX2MS/4x.webp) !important;
-background-clip: text;
--webkit-background-clip: text;
+background:url(https://cdn.7tv.app/paint/01KGJ047HHK6Z13CV2Z62WZSYA/layer/01KJPTX9WX5XH6H0Q2JZ6DX2MS/4x.webp) center / cover !important;
+background-clip: text !important;
+-webkit-background-clip: text !important;
 text-shadow: none !important;
 color: transparent !important;
 -webkit-text-fill-color: transparent !important;
@@ -40,9 +40,9 @@ filter: drop-shadow(2px 2px 2px #094600) !important;
 }
 
 .chat_line[data-nick="fossabot"] > .user_info > .nick {
-background-image:url(https://cdn.7tv.app/paint/01HW24B6480006SC0XBSKSENB1/layer/01JAMR2K98YSAMHZQ7AWSA08FK/4x.webp) !important;
-background-clip: text;
--webkit-background-clip: text;
+background:url(https://cdn.7tv.app/paint/01HW24B6480006SC0XBSKSENB1/layer/01JAMR2K98YSAMHZQ7AWSA08FK/4x.webp) center / cover !important;
+background-clip: text !important;
+-webkit-background-clip: text !important;
 text-shadow: none !important;
 color: transparent !important;
 -webkit-text-fill-color: transparent !important;
