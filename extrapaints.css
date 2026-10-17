@@ -38,3 +38,13 @@ color: transparent !important;
 -webkit-text-fill-color: transparent !important;
 filter: drop-shadow(2px 2px 2px #094600) !important;
 }
+
+.chat_line[data-nick="fossabot"] > .user_info > .nick {
+background-image:url(https://cdn.7tv.app/paint/01HW24B6480006SC0XBSKSENB1/layer/01JAMR2K98YSAMHZQ7AWSA08FK/4x.webp) !important;
+background-clip: text;
+-webkit-background-clip: text;
+text-shadow: none !important;
+color: transparent !important;
+-webkit-text-fill-color: transparent !important;
+filter: drop-shadow(rgb(23, 113, 183) 0px 0px 5px)!important;
+}
