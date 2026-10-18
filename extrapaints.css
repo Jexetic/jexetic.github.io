@@ -39,16 +39,6 @@ color: transparent !important;
 filter: drop-shadow(2px 2px 2px #094600) !important;
 }
 
-.chat_line[data-nick="fossabot"] > .user_info > .nick {
-background:url(https://cdn.7tv.app/paint/01HW24B6480006SC0XBSKSENB1/layer/01JAMR2K98YSAMHZQ7AWSA08FK/4x.webp) center / cover !important;
-background-clip: text !important;
--webkit-background-clip: text !important;
-text-shadow: none !important;
-color: transparent !important;
--webkit-text-fill-color: transparent !important;
-filter: drop-shadow(rgb(23, 113, 183) 0px 0px 5px)!important;
-}
-
 .chat_line[data-nick="nemo1482009"] > .user_info > .nick {
 background-image:none !important;
 background: linear-gradient(135deg, rgb(229, 240, 255) 35%, rgb(255, 102, 0) 55%) center center / cover padding-box text !important;
