@@ -1,6 +1,3 @@
-body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
-
-
 .chat_line {
 line-height: 1.2em !important;
 margin-top: 0.25em;
@@ -34,6 +31,15 @@ margin-right:6px !important;
 
 #chat_container .nick, #chat_container .message, #chat_container .colon { 
 text-shadow: 2px 2px 2px black;
+}
+
+.chat_line[data-nick="fossabot"] > .user_info{
+display:none;
+}
+
+.chat_line[data-nick="fossabot"] > .message{
+  color:yellow !important;
+  margin-left:2px;
 }
 
 
