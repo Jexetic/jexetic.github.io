@@ -38,7 +38,7 @@ display:none;
 }
 
 .chat_line[data-nick="fossabot"] > .message{
-  color:yellow !important;
+  color:silver !important;
   margin-left:2px;
 }
 
