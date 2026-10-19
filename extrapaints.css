@@ -47,7 +47,7 @@ background-clip: text !important;
 text-shadow: none !important;
 color: transparent !important;
 -webkit-text-fill-color: transparent !important;
-filter: drop-shadow(rgb(237, 118, 38) 0px 0px 1px) !important;
+filter: drop-shadow(1px 1px 1px #000000) !important;
 }
 
 .chat_line[data-nick="acedash6"] > .user_info > .nick {
