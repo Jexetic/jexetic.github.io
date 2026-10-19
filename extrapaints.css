@@ -63,7 +63,7 @@ filter: drop-shadow(rgb(242, 86, 185) 0px 0px 0.5px) drop-shadow(rgb(242, 86, 18
 
 .chat_line[data-nick="ekimyn"] > .user_info > .nick {
 background-image:none !important;
-background: url(https://cdn.7tv.app/paint/01J3B43V3R0004BE3DN7Y1G6MH/layer/01JAMR303FENJMTP2P5YGHN4DV/4x.webp) !important;
+background:url(https://cdn.7tv.app/paint/01J3B43V3R0004BE3DN7Y1G6MH/layer/01JAMR303FENJMTP2P5YGHN4DV/4x.webp) center / cover !important;
 background-clip: text !important;
 -webkit-background-clip: text !important;
 text-shadow: none !important;
