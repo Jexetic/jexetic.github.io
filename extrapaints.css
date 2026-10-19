@@ -69,5 +69,5 @@ background-clip: text !important;
 text-shadow: none !important;
 color: transparent !important;
 -webkit-text-fill-color: transparent !important;
-filter: drop-shadow(rgb(255, 31, 236) 0px 0px 2px) drop-shadow(rgb(255, 199, 250) 0px 0px 2px) !important;
+filter: drop-shadow(rgb(255, 31, 236) 0px 0px 2px) !important;
 }
