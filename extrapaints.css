@@ -71,3 +71,14 @@ color: transparent !important;
 -webkit-text-fill-color: transparent !important;
 filter: drop-shadow(rgb(255, 36, 131) 1px 0px 0.1px) drop-shadow(rgb(0, 0, 0) 0px 2px 0.1px) drop-shadow(rgb(0, 0, 0) 0px -1px 0.1px) drop-shadow(rgb(0, 0, 0) -1px 0px 0.1px) !important;
 }
+
+.chat_line[data-nick="acedash6"] > .user_info > .nick {
+background-image:none !important;
+background: repeating-radial-gradient(circle, rgb(254, 237, 246) 0%, rgb(254, 237, 246) 10%, rgb(252, 209, 231) 10%, rgb(252, 209, 231) 20%, rgb(254, 182, 220) 20%, rgb(254, 182, 220) 30%, rgb(252, 157, 207) 30%, rgb(252, 157, 207) 40%) center center / cover padding-box text !important;
+background-clip: text !important;
+-webkit-background-clip: text !important;
+text-shadow: none !important;
+color: transparent !important;
+-webkit-text-fill-color: transparent !important;
+filter: drop-shadow(rgb(255, 31, 236) 0px 0px 2px) drop-shadow(rgb(255, 199, 250) 0px 0px 2px) !important;
+}
