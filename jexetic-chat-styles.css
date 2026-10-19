@@ -39,7 +39,6 @@ display:none;
 
 .chat_line[data-nick="fossabot"] > .message{
   color: #d3d3d3 !important;
-  margin-left:2px;
 }
 
 
