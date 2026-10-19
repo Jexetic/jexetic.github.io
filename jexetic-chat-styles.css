@@ -38,9 +38,9 @@ display:none;
 }
 
 .chat_line[data-nick="fossabot"] > .message{
-  color: #d3d3d3 !important;
+color: #d3d3d3 !important;
+font-style: italic;
 }
-
 
 @keyframes fadeInUp {
   0% {
