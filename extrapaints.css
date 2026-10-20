@@ -71,3 +71,13 @@ color: transparent !important;
 -webkit-text-fill-color: transparent !important;
 filter: drop-shadow(rgb(255, 31, 236) 0px 0px 2px) !important;
 }
+
+.chat_line[data-nick="viperleek"] > .user_info > .nick {
+background:url(https://cdn.7tv.app/paint/01KFF35PWKKKNKYH0JYZ0FZCZE/layer/01KHGS15ST9TNNHFR9AQRGH72S/4x.webp) center / cover !important;
+background-clip: text !important;
+-webkit-background-clip: text !important;
+text-shadow: none !important;
+color: transparent !important;
+-webkit-text-fill-color: transparent !important;
+filter: drop-shadow(rgb(255, 0, 0) 0px 0px 2px) !important;
+}
