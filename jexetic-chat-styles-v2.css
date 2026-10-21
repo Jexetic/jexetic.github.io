@@ -27,7 +27,3 @@ padding: 7px !important;
 .colon{
 margin-right:6px !important;
 }
-
-#chat_container .nick, #chat_container .message, #chat_container .colon { 
-text-shadow: 2px 2px 2px black;
-}
